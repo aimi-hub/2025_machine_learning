@@ -180,4 +180,5 @@ plt.legend()
 plt.tight_layout()
 plt.savefig("figs/loss.png", dpi=160)
 
+
 print("Saved figures to figs/prediction.png and figs/loss.png")
